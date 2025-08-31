@@ -16,28 +16,28 @@ Camera_App/
  ├── app/src/main/java/com/example/camera_app/  
 
  
- │   ├── MainActivity.kt         # Entry point (session creation & navigation)  
+ │        ├── MainActivity.kt                              # Entry point (session creation & navigation)  
 
  
- │   ├── CaptureActivity.kt      # Handles image capturing   
+ │        ├── CaptureActivity.kt                               # Handles image capturing   
 
  
- │   ├── ViewImagesActivity.kt   # Displays images from a selected session
+ │        ├── ViewImagesActivity.kt                          # Displays images from a selected session
 
  
- │   ├── DatabaseHelper.kt       # SQLite database for session metadata
+ │        ├── DatabaseHelper.kt                               # SQLite database for session metadata
 
  │
  
- ├── app/src/main/res/layout/    # XML layout files
+ ├── app/src/main/res/layout/                            # XML layout files
  
  │
  
- ├── app/build.gradle            # App-level Gradle config
+ ├── app/build.gradle                               # App-level Gradle config
  
- ├── build.gradle                # Project-level Gradle config
+ ├── build.gradle                                     # Project-level Gradle config
  
- └── AndroidManifest.xml         # App manifest
+ └── AndroidManifest.xml                           # App manifest
 
 
 ***** DEPENDENCIES ******
