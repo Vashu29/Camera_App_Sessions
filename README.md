@@ -5,7 +5,7 @@ Capture image session wise with session ID. App is helpfull for navigating to im
 This App will securely saves the users captured image in private folder of there mobile phone
 Easy to found the particular session images using there session ID or the name
 
-40 % part of the project is referenced from the ProgrammingHunt channel
+This Android Project's 40 % part is referenced from the ProgrammingHunt channel
 
 User have to create different session ID so that each session ID stored individually which will prone to easy to navigate to the images
 Students can store there notes in specific folder 
