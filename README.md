@@ -1,5 +1,6 @@
 # Camera_App_Sessions
-# Camera_App_With_Categories_Folder
+
+
 Capture image session wise with session ID. App is helpfull for navigating to images easily because each bunch of images stores in different category forlders in a single sessions. Each new sessions have new session ID and related images in it. These images are locating in the users's phone's private directory. So, this app not store image on cloud
 This App will securely saves the users captured image in private folder of there mobile phone
 Easy to found the particular session images using there session ID or the name
